@@ -32,4 +32,6 @@ public class DNASequence {
         String s = "AAAAACCCCCAAAAACCCCCCAAAAAGGGTTT";
         System.out.println(findRepeatedDnaSequences(s).toString());
     }
+
+
 }
